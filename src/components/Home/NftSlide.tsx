@@ -20,7 +20,7 @@ export default function NftSlide({ isLoading, products }: NftSlidePropsTypes) {
     <section className="mx-auto mt-12 w-full max-w-7xl py-4 md:mt-20">
       {/* Custom Navigation */}
       <div className="flex items-center justify-between px-6">
-        <ProductTitle title="Collect Trending Happy Jolly" />
+        <ProductTitle title="Collect Trending React E-Shop" />
         <div className="hidden items-center justify-center sm:flex">
           <div className="swiper-button image-swiper-button-prev mr-4 flex h-10 w-10 cursor-pointer items-center justify-center rounded-full border border-gray-300">
             <ChevronLeftIcon className="h-6 w-6" />

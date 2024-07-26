@@ -30,7 +30,7 @@ const Paypal = ({
       .create({
         purchase_units: [
           {
-            description: 'Happy Jolly Item',
+            description: 'React E-Shop Item',
             amount: {
               currency_code: 'CAD',
               value: totalPrice,

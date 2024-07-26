@@ -21,14 +21,14 @@ export default function IntroRarity() {
                   <span className="block text-violet-500 lg:inline">
                     Ultra rare
                   </span>{' '}
-                  Happy Jolly NFTs
+                  React E-Shop NFTs
                 </h1>
                 <p className="mx-auto max-w-2xl pt-12 text-lg leading-8 text-gray-900">
-                  Happy Jolly NFTs are special digital things that are very rare
+                  React E-Shop NFTs are special digital things that are very rare
                   and totally unique. Each one is made up of more than 100
                   different parts that are combined in different ways to make
                   each one completely one-of-a-kind. And because they are made
-                  using blockchain technology, each Happy Jolly can only be
+                  using blockchain technology, each React E-Shop can only be
                   owned by one person. With so many possibilities, every Happy
                   Jolly is a special and unique creation!
                 </p>

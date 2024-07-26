@@ -64,3 +64,7 @@ This project is in its early stages of development, with future plans to impleme
 - ~~Add Express Checkout by Paypal~~
 - Code Refactoring and Optimization
 - Get NFT Metadata and Update user's contract address
+
+## Note
+
+Please create the environment file and configure things before starting the project.

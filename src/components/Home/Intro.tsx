@@ -9,7 +9,7 @@ export default function Intro() {
           <div className="mx-auto max-w-2xl pt-16 sm:pt-20 lg:pt-24">
             <div className="text-center">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                What is Happy Jolly?
+                What is React E-Shop?
               </h1>
               <p className="mt-8 text-lg leading-6 text-violet-500">
                 Rediscovering Joy and Playfulness through Blockchain
@@ -17,7 +17,7 @@ export default function Intro() {
               </p>
               <div className="relative pt-12 text-lg leading-8 text-gray-900">
                 <p>
-                  Happy Jolly is a playful brand that uses blockchain technology
+                  React E-Shop is a playful brand that uses blockchain technology
                   to create unique digital collectibles and physical
                   merchandise. Our digital collectibles, called NFTs, are
                   available on OpenSea, the leading marketplace for buying and

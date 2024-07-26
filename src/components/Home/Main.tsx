@@ -14,12 +14,12 @@ export default function Main() {
                 <h1 className="text-center text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl lg:text-left">
                   Welcome to the World of{' '}
                   <span className="block text-violet-500 lg:inline">
-                    Happy Jolly
+                    React E-Shop
                   </span>
                 </h1>
                 <p className="mt-6 text-center text-lg leading-8 text-gray-600 lg:text-left">
                   <span className="inline font-semibold text-gray-900">
-                    Happy Jolly
+                    React E-Shop
                   </span>{' '}
                   are 100 unique collectible Yorkies with proof of ownership
                   stored on the Ethereum Blockchain.

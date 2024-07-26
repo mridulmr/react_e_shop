@@ -62,7 +62,7 @@ const CheckoutSuccess = () => {
         <h3 className="mb-2 text-xl font-semibold leading-6 ">
           Thank you for shopping with us!
         </h3>
-        <p className="font-semibold text-violet-500">Happy Jolly</p>
+        <p className="font-semibold text-violet-500">React E-Shop</p>
       </section>
       <Button
         onClick={() => navigate('/collections')}

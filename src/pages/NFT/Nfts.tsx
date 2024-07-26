@@ -157,7 +157,7 @@ const Nfts = () => {
           <div className="flex items-end justify-between border-b border-gray-200 pt-24 pb-6">
             <div className="flex flex-col">
               {/* page title */}
-              <ProductTitle title="Happy Jolly NFTs" />
+              <ProductTitle title="React E-Shop NFTs" />
             </div>
             <button
               type="button"
